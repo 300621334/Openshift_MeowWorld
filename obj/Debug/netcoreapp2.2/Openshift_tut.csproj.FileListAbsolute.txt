@@ -1,0 +1,14 @@
+D:\VS\Openshift_tut\Openshift_tut\bin\Debug\netcoreapp2.2\Openshift_tut.deps.json
+D:\VS\Openshift_tut\Openshift_tut\bin\Debug\netcoreapp2.2\Openshift_tut.runtimeconfig.json
+D:\VS\Openshift_tut\Openshift_tut\bin\Debug\netcoreapp2.2\Openshift_tut.runtimeconfig.dev.json
+D:\VS\Openshift_tut\Openshift_tut\bin\Debug\netcoreapp2.2\Openshift_tut.dll
+D:\VS\Openshift_tut\Openshift_tut\bin\Debug\netcoreapp2.2\Openshift_tut.pdb
+D:\VS\Openshift_tut\Openshift_tut\obj\Debug\netcoreapp2.2\Openshift_tut.csprojAssemblyReference.cache
+D:\VS\Openshift_tut\Openshift_tut\obj\Debug\netcoreapp2.2\Openshift_tut.csproj.CoreCompileInputs.cache
+D:\VS\Openshift_tut\Openshift_tut\obj\Debug\netcoreapp2.2\Openshift_tut.RazorAssemblyInfo.cache
+D:\VS\Openshift_tut\Openshift_tut\obj\Debug\netcoreapp2.2\Openshift_tut.RazorAssemblyInfo.cs
+D:\VS\Openshift_tut\Openshift_tut\obj\Debug\netcoreapp2.2\Openshift_tut.AssemblyInfoInputs.cache
+D:\VS\Openshift_tut\Openshift_tut\obj\Debug\netcoreapp2.2\Openshift_tut.AssemblyInfo.cs
+D:\VS\Openshift_tut\Openshift_tut\obj\Debug\netcoreapp2.2\Openshift_tut.RazorTargetAssemblyInfo.cache
+D:\VS\Openshift_tut\Openshift_tut\obj\Debug\netcoreapp2.2\Openshift_tut.dll
+D:\VS\Openshift_tut\Openshift_tut\obj\Debug\netcoreapp2.2\Openshift_tut.pdb
