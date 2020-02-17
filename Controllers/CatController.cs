@@ -14,7 +14,7 @@ namespace Openshift_tut.Controllers
             switch (cat)
             {
                 case "bill":
-                    return "Meaaww..."
+                    return "Meaaww...";
                 case "steve":
                     return "Hisss...";
                 default:
